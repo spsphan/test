@@ -1,5 +1,7 @@
 #include <iostream>
 
-int main () {
-    std::cout << "hello" << std::endl;
+using namespace std;
+
+int main() {
+	cout << "Hello! My name is Steven!" << endl;
 }
